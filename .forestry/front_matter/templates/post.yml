@@ -1,6 +1,7 @@
 ---
 label: Post
-hide_body: false
+hide_body: true
+display_field: type
 fields:
 - type: text
   name: title
@@ -26,5 +27,10 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: pic
+  type: file
+  config:
+    maxSize: 64
+  label: pic
 pages:
 - content/still-figuring-this-stuff-out.md
