@@ -12,6 +12,15 @@ fields:
 - type: file
   name: image
   label: image
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: body
 - type: text
   name: description
   label: description
