@@ -1,9 +1,11 @@
 +++
+body = "booodyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\naaahhhhhh\nffimrvjntrvnr\nmjrtmvitjbiunrmd\n"
 categories = []
 date = 2021-02-04T06:00:00Z
 description = ""
 draft = true
 image = "/v1612409880/samples/ecommerce/leather-bag-gray.jpg"
+pic = ""
 tags = []
 title = "Still figuring this stuff out"
 type = "post"
