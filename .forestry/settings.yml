@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: ''
+  path: content/*
   label: About me
-  match: "**/*"
 - type: directory
   path: content
   label: Post
