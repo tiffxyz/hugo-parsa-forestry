@@ -1,14 +1,17 @@
 ---
 title: The Sun
-date: 
+date: 2021-02-04T06:00:00+00:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-1.jpg
+image: "/v1612409883/samples/landscapes/nature-mountains.jpg"
 categories:
+- time flies
 - Valuable Idea
 tags:
 - Photos
 - Finance
+- fashion
+pic: "/v1612409881/samples/food/spices.jpg"
 
 ---
 Anything better happening here?
